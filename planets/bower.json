@@ -1,0 +1,21 @@
+{
+  "name": "planets",
+  "description": "Testing planets physics",
+  "main": "index.html",
+  "authors": [
+    "Mihailov Vasilievic Filho <mihailov.vf@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mihailov-vf/creative-deviations",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "p5.js": "p5js#^0.5.7"
+  }
+}

@@ -1,8 +1,8 @@
 {
-  "name": "p5js-seed",
+  "name": "planets",
   "version": "0.0.1",
   "private": true,
-  "description": "A great starting point for building a p5.js project",
+  "description": "Testing planets physics",
   "license": "MIT",
   "scripts": {
     "postinstall": "bower install",
